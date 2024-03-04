@@ -26,12 +26,10 @@ This challenge proposes 4 common algorithms to sort arrays to be solved:
 
 ### How to solve
 
-1. Start the challenge.
-2. Clone the repository.
-3. Solve the challenge.
-4. Push your solution.
-5. Finish the challenge.
-6. Wait for the resuls.
+1. Solve the challenge.
+2. Push your solution.
+3. Click on Submit Challenge.
+4. Wait for the resuls.
 
 ### Additional information
 
