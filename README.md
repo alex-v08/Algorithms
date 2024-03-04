@@ -1,6 +1,6 @@
-# infojobs-backend-java
-InfoJobs Java backend challenge.
-
+# NUWE-backend-java
+NUWE java algorithms challenges 1.
+Difficulty: easy
 
 ## Objectives
 
@@ -12,7 +12,7 @@ This challenge proposes 4 common algorithms to sort arrays to be solved:
 3. Merge Sort: Implement the MergeSort algorithm in the `MergeSort.java` file.
 4. Quick Sort: Implement the QuickSort algorithm in the `QuickSort.java` file.
 
-*Attention*: There are function signatures already defined in each `.java` files. It is recommended to implement the defined functions.
+*Attention*: There are function signatures already defined in each `.java` files. It is mandatory to implement the defined functions. 
 
 ### A bit of knowledge
 
@@ -24,3 +24,18 @@ This challenge proposes 4 common algorithms to sort arrays to be solved:
 
 > **Quick Sort** is a sorting algorithm based on the Divide and Conquer algorith. It works by picking an element as a pivot, partion the given array around the pivot by placing the pivot in its correct position in the sorted array.
 
+### How to solve
+
+1. Start the challenge.
+2. Clone the repository.
+3. Solve the challenge.
+4. Push your solution.
+5. Finish the challenge.
+6. Wait for the resuls.
+
+### Additional information
+
+In this case, as can be seen in /src, the tests to be performed are given, so no I/O example will be given.
+Based on these tests, you should be able to complete all objectives.
+
+It is not allowed to modify the basic functionality of the tests provided. Complementary tests may be added, but these will not be evaluated.
