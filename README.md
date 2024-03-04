@@ -1,6 +1,6 @@
 # NUWE-backend-java
 NUWE java algorithms challenges 1.
-Difficulty: easy
+- Difficulty: easy
 
 ## Objectives
 
